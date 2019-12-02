@@ -1,0 +1,22 @@
+Hello!
+In this project, You've got to program an ATM (automated teller machine)
+
+Requirements
+
+Good informaton and practices 
+
+You MUST ask for a security key before doing anything (Key '1234')
+
+Beginning balance '$ 500 '
+
+You must withdraw money
+
+Insert money
+
+does not allow to add more than 5000
+
+Beginning balance '500'
+
+change security key
+
+If you have a question, Go to our group on Facebook 'Mikes code'
